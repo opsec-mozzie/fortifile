@@ -1,6 +1,4 @@
-# FortiFile
+# FortiFile v0.1
 
 
-**Visão Geral**
-
-FortiFile Console é uma ferramenta de linha de comando modular e expansível para operações de sanitização e análise de arquivos, com uma interface em texto no terminal. O objetivo inicial é sanitizar arquivos, mas o projeto será escalável para incluir funcionalidades adicionais, como remoção de metadados, análise de entropia, avaliação de vulnerabilidades em arquivos, DLP (Data Loss Prevention) proativo, e outras operações de segurança.
+FortiFile is a modular and extensible command-line tool for file sanitization and analysis operations, with a text-based terminal interface. The initial goal is to sanitize files, but the project will be scalable to include additional functionality such as metadata removal, entropy analysis, file vulnerability assessment, malware scanning and removal, proactive data loss prevention (DLP), and other security operations.
